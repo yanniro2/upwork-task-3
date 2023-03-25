@@ -3,7 +3,7 @@ export const Data = [
     {
         id: 1,
         type: "Animation",
-        img: "/assects/img/img (1).png",
+        img: "https://raw.githubusercontent.com/yanniro2/upwork-task-3/main/public/assects/Img/img%20(1).png",
     },
     {
         id: 2,
