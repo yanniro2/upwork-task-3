@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/upwork-task-3/static/css/main.b70e629d.css",
+    "main.js": "/upwork-task-3/static/js/main.89bfc38a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/upwork-task-3/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Снимок 2.png": "/upwork-task-3/static/media/Снимок 2.6a44e631f89e1d824a29.png",
+    "static/media/game 3.svg": "/upwork-task-3/static/media/game 3.4d7d5add983cd8b148ff90f5a105f606.svg",
+    "static/media/game 1.svg": "/upwork-task-3/static/media/game 1.1a81cc2c0bcb3efc16ec4d0acf1454e2.svg",
+    "static/media/game 2.svg": "/upwork-task-3/static/media/game 2.5a13fc49ebc358562cc1c8eaf17b6404.svg",
+    "static/media/logo Main .svg": "/upwork-task-3/static/media/logo Main .aaa8de1ee65ecf30d2aaed538c6dcfd7.svg",
+    "static/media/Features Icons.svg": "/upwork-task-3/static/media/Features Icons.2c1bd05bb3f49ea3505f91f6981ec2a3.svg",
+    "static/media/dice.svg": "/upwork-task-3/static/media/dice.4f5079e3dd5accd3c69c383c76deb4c0.svg",
+    "static/media/layout.svg": "/upwork-task-3/static/media/layout.a9d5e6cf39babafacf98d44315e2e0f7.svg",
+    "static/media/Vector.svg": "/upwork-task-3/static/media/Vector.f8ea29c9dc655d5f46e0412c6eb01333.svg",
+    "static/media/filters.svg": "/upwork-task-3/static/media/filters.5f01ad0b48d49bf94a188cbabcf4853f.svg",
+    "static/media/Vector-1.svg": "/upwork-task-3/static/media/Vector-1.d165d83fe708db72334199b622063093.svg",
+    "static/media/gift.svg": "/upwork-task-3/static/media/gift.a79fa121e030e19430cd7362cd5abdf4.svg",
+    "static/media/readme.svg": "/upwork-task-3/static/media/readme.431a411a58a81fc6c8e65717914a32a3.svg",
+    "static/media/search.svg": "/upwork-task-3/static/media/search.8abcff46bc71ca2893d171b2292c2c27.svg",
+    "static/media/boy.svg": "/upwork-task-3/static/media/boy.0f02d0424a1b9290d6efddfe97859d1c.svg",
+    "static/media/Star 1.svg": "/upwork-task-3/static/media/Star 1.74fb80fe8e11da63629b2c6bc951f2ed.svg",
+    "static/media/log-off.svg": "/upwork-task-3/static/media/log-off.a376916ed3828f4d0da6bb46cf30ea85.svg",
+    "index.html": "/upwork-task-3/index.html",
+    "static/media/extension.svg": "/upwork-task-3/static/media/extension.0be6220756c46c6bc5942f59b3712142.svg",
+    "static/media/plus.svg": "/upwork-task-3/static/media/plus.df9cc57eda4bd5203da093097b2787fc.svg",
+    "main.b70e629d.css.map": "/upwork-task-3/static/css/main.b70e629d.css.map",
+    "main.89bfc38a.js.map": "/upwork-task-3/static/js/main.89bfc38a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/upwork-task-3/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70e629d.css",
+    "static/js/main.89bfc38a.js"
+  ]
+}
